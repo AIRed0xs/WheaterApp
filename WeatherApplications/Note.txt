@@ -1,0 +1,4 @@
+to start django
+python manage.py runserver
+
+run on port 8000

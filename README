@@ -1,0 +1,10 @@
+"""
+The data we will be using for the Temperature plot
+"""
+https://open-meteo.com/en
+"""
+The API we will be using
+"""
+https://docs.python.org/3/library/json.html
+
+
